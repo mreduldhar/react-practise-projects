@@ -3,6 +3,6 @@
 1. React Concept
 2. Accordion Concept :
 3. Password Generator : https://password-generator-by-mredul.netlify.app/
-4. Currency Converter :
+4. Currency Converter : https://currency-converter-by-mredul.netlify.app/
 
  
